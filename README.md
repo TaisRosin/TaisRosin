@@ -1,31 +1,31 @@
-<h1 align="center">✨ Olá, eu sou a Taís!</h1>
+<h1 align="center">✨ Hello, I’m Taís!</h1>
 
 <p align="center">
-  📍 Brasil • 🧠 Estudante de Sistemas de Informação • 🖥️ Migração de Dados
+  📍 Brazil • 🧠 Information Systems Student • 🖥️ Data Migration Specialist
 </p>
 
 ---
 
-### 💜 Sobre mim
+### 💜 About Me
 
-Oi! Meu nome é Taís, sou estudante de **Sistemas de Informação** e trabalho com **Migração de Dados**.
+Hi! My name is Taís, I’m an **Information Systems** student and I work with **Data Migration**.
 
-Meu trabalho atualmente se resume em organizar e executar projetos de migração de dados de um ERP para outro, com o objetivo principal de minimizar os impactos que uma migração de dados sempre traz para uma empresa.
+My current work involves organizing and executing data migration projects from one ERP system to another, with the main goal of minimizing the impacts that data migration usually brings to a company.
 
-Sou movida pelo caos do dia a dia, problemas que parecem insolucionáveis e por projetos bem organizados e estruturados.
-
----
-
-### 📖 Estudando
-
-- 🌐 Rede de Computadores
-- 🤖 IoT
-- ᯤ Desenvolvimento Web
-- 📈 AI
+I’m driven by the daily chaos, problems that seem unsolvable, and well-organized, structured projects.
 
 ---
 
-### 🧰 Tech Stack favorita
+### 📖 Currently Studying
+
+- 🌐 Computer Networks  
+- 🤖 IoT  
+- ᯤ Web Development  
+- 📈 AI  
+
+---
+
+### 🧰 Favorite Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -37,22 +37,22 @@ Sou movida pelo caos do dia a dia, problemas que parecem insolucionáveis e por 
 
 ---
 
-### ☕ Curiosidades
+### ☕ Fun Facts
 
-- 🎮 Amo jogar DBD
-- 🐶 Tenho dois cachorros e uma tartaruga
-- 📖 Amo ler
+- 🎮 I love playing Dead by Daylight (DBD)  
+- 🐶 I have two dogs and a turtle  
+- 📖 I love reading  
 
 ---
 
-### 📫 Onde me encontrar
+### 📫 Where to Find Me
 
-- 📧 taisrosin.1508@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/ta%C3%ADs-alessandra-rosin-874446324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- ✨ Em breve: Meu portfólio com projetos e ideias
+- 📧 taisrosin.1508@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ta%C3%ADs-alessandra-rosin-874446324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
+- ✨ Coming soon: My portfolio with projects and ideas  
 
 ---
 
 <p align="center">
-  Obrigada por passar aqui 💕
+  Thank you for stopping by 💕  
 </p>
